@@ -30,6 +30,7 @@ _... and I think that it's relatively easy to build any application,<br>it is ha
 - [@jscutlery/semver](https://github.com/jscutlery/semver) Semantic Versioning for Nx Monorepos.
 
 # 👨🏻‍🍳 Marmicode
+- [📝 Blog & Resources](https://marmicode.io)
 - [📚 Courses](https://courses.marmicode.io)
 - [👨🏻‍🏫 Workshops](https://marmicode.eventbrite.com)
 - [👨🏻‍🍳 Coaching](kitchen@marmicode.io)
