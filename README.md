@@ -4,18 +4,9 @@ _... and I think that it's relatively easy to build any application,<br>it is ha
 
 **My goal is to help teams skill up and quickly *(but yet peacefully)* build maintainable apps that scale.**
 
-## 🥘 My Recipes
-- ✅ Testing
-- 🤝 Collective Ownership
-- ♻️ eXtreme Programming
-- 🤤 Simple Design & Minimalism
-
-## 🍴 My Cutleries
-- 🕸 JavaScript
-- ❤️ I love all frontend frameworks
-- 🐈‍⬛ [NestJS](https://nestjs.com/)
-- 🔥 Firebase & GCP
-- 📦 [Nx](https://nx.dev/)
+Get in touch:
+- 🐦 [@yjaaidi](https://twitter.com/yjaaidi)
+- 💌 [mailto:kitchen@marmicode.io](kitchen@marmicode.io)
 
 # 📺 Previous Talks
 - [Keep Your Tests Healthy With DOM Distancing @AngularGlobalSummit / 2021](https://youtu.be/ZKBHWcjFufw)
@@ -30,8 +21,21 @@ _... and I think that it's relatively easy to build any application,<br>it is ha
 - [@jscutlery/semver](https://github.com/jscutlery/semver) Semantic Versioning for Nx Monorepos.
 
 # 👨🏻‍🍳 Marmicode
+
 - [📝 Blog & Resources](https://marmicode.io)
 - [📚 Courses](https://courses.marmicode.io)
 - [👨🏻‍🏫 Workshops](https://marmicode.eventbrite.com)
-- [👨🏻‍🍳 Coaching](kitchen@marmicode.io)
+
+## 🥘 Our Recipes
+- ✅ Testing
+- 🤝 Collective Ownership
+- ♻️ eXtreme Programming
+- 🤤 Simple Design & Minimalism
+
+## 🍴 Our Cutleries
+- 🕸 JavaScript
+- ❤️ I love all frontend frameworks
+- 🐈‍⬛ [NestJS](https://nestjs.com/)
+- 🔥 Firebase & GCP
+- 📦 [Nx](https://nx.dev/)
 
