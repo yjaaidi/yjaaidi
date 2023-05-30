@@ -6,7 +6,7 @@ _... and I think that it's relatively easy to build any application,<br>it is ha
 
 Get in touch:
 - 🐦 [@yjaaidi](https://twitter.com/yjaaidi)
-- 💌 [mailto:kitchen@marmicode.io](kitchen@marmicode.io)
+- 💌 [kitchen@marmicode.io](mailto:kitchen@marmicode.io)
 
 # 📺 Previous Talks
 - [Keep Your Tests Healthy With DOM Distancing @AngularGlobalSummit / 2021](https://youtu.be/ZKBHWcjFufw)
