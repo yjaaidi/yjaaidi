@@ -6,7 +6,7 @@ _... and I think that it's relatively easy to build any application,<br>it is ha
 
 Get in touch:
 - 🐦 [@yjaaidi](https://twitter.com/yjaaidi)
-- 🦋 [@younes.marmico.de](https://bsky.app/profile/did:plc:iwsrfzjmrr7ous6jmlorkqo4)
+- 🦋 [@younesjd.dev](https://bsky.app/profile/did:plc:iwsrfzjmrr7ous6jmlorkqo4)
 - 💌 [kitchen@marmicode.io](mailto:kitchen@marmicode.io)
 
 # 🥘 Marmicode
