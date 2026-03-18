@@ -15,7 +15,7 @@ Get in touch:
 - 📺 [Pragmatic Angular Testing Course](https://courses.marmicode.io/courses/pragmatic-angular-testing)
 - 📚 [Cookbook](https://cookbook.marmicode.io)
 - 📝 [Blog & Resources](https://marmicode.io)
-- 👨🏻‍🏫 [Workshops](https://marmicode.eventbrite.com)
+- 👨🏻‍🏫 [Workshops](https://marmicode.io/workshops)
 
 # 📺 Previous Talks
 
